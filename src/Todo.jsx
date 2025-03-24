@@ -22,7 +22,7 @@ export default function Todo() {
     <div className="w-screen h-screen flex items-center justify-center">
       <div className="todo-container bg-white  md:h-96 md:w-96 lg:h-[500px] lg:w-[500px]">
         <h1 className="text-center p-6 text-2xl">TODO LIST</h1>
-
+<h1>TEST</h1>
         <div className="header flex p-5">
           {/* Search Bar */}
           <div className="search-bar flex col-span-8">
