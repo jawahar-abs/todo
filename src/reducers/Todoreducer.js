@@ -1,6 +1,7 @@
 export const TodoReducer = (state = { todos: [{task:"my task",completed:false}] }, action = {}) => {
     switch (action.type) {
       case "Add_todo":
+            //added a comment for test
         console.log(action);
         
         return {
